@@ -10,6 +10,8 @@ scraper/*.txt
 scraper/dbs/*
 *.pyc
 
+__pycache__
+
 # Flask stuff
 instance/
 
@@ -23,5 +25,8 @@ node_modules
 # Environments
 .env
 
+.vscode
+
 # NER model
-add_articles_to_graph/nlp/ner/NER_model1
+
+/nlp/add_articles_to_graph/nlp/ner/NER_model1
