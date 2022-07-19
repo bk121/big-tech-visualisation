@@ -1,0 +1,2 @@
+*.pickle filter=lfs diff=lfs merge=lfs -text
+News_Category_Dataset_v2.json filter=lfs diff=lfs merge=lfs -text
