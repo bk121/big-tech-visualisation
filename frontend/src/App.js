@@ -16,7 +16,7 @@ function App() {
   const [currentNodeTypes, setCurrentNodeTypes] = useState(null);
   const [currentLinkTypes, setCurrentLinkTypes] = useState(null);
   const [dateState, setDateState] = useState(30);
-  const [showHowTo, setShowHowTo] = useState(true);
+  const [showHowTo, setShowHowTo] = useState(false);
   const nodeStyles = {
     Parent: "#0e1f58",
     Person: "#ffbe09",
